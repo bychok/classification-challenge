@@ -1,6 +1,8 @@
+![Summary of the Spam Detector Project: Icons representing spam processing and machine learning](img/SpamDetector.webp)
+
 # Spam Detector
 
-## Table of Contents
+## Table of Contentsimg
 
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
@@ -41,8 +43,6 @@ jupyter notebook spam_detector.ipynb
 ## Conclusions
 
 ### Evaluate the Models
-
-Model Performance Comparison
 
 - Logistic Regression: 0.9262
 - Random Forest Classifier: 0.9598
